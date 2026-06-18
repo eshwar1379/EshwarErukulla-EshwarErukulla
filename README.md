@@ -1,4 +1,4 @@
-# Eshwar Erukulla · Data Engineer & Technical Lead
+# Eshwar Erukulla · Data Engineer
 
 📍 London → Hyderabad  |  5 yrs shipping production pipelines
 
